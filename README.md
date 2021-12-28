@@ -1,7 +1,9 @@
 # Assignment13
 Space ship (IMPROVED) :O
 
-ultizing threads for spawning enemies with arcade!
+Space ship with arcade library
+
+utilizing threads for spawning enemies with arcade library!
 
 
 thread piade sazi shode ast !
